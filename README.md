@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @Cyberkhaos
+- 👋 Hi, I’m Pete
 - 👀 I’m interested in coding and Blue Teaming
-- 🌱 I’m currently self-learning python and JavaScript
-- 💞️ I’m not looking to collaborate yet
-- 📫 Reach me via my Email
 
 <!---
 Cyberkhaos/Cyberkhaos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
