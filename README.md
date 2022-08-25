@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Pete
-- 👀 I’m interested in coding and Blue Teaming
+- **👋 Hi, I’m Pete**
+- I enjoy coding mostly in JS and PY.
 
 <!---
 Cyberkhaos/Cyberkhaos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
