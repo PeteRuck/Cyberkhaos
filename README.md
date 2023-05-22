@@ -1,5 +1,6 @@
 - **👋 Hi, I’m Pete**
 - I enjoy coding mostly in JS and PY.
+- Currently learning Terraform, Docker and Kuberbetes
 
 <!---
 Cyberkhaos/Cyberkhaos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
